@@ -1,0 +1,14 @@
+C:\Users\ilruz\source\repos\то\то\obj\Debug\net8.0\то.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilruz\source\repos\то\то\obj\Debug\net8.0\то.AssemblyInfoInputs.cache
+C:\Users\ilruz\source\repos\то\то\obj\Debug\net8.0\то.AssemblyInfo.cs
+C:\Users\ilruz\source\repos\то\то\obj\Debug\net8.0\то.csproj.CoreCompileInputs.cache
+C:\Users\ilruz\source\repos\то\то\bin\Debug\net8.0\то.exe
+C:\Users\ilruz\source\repos\то\то\bin\Debug\net8.0\то.deps.json
+C:\Users\ilruz\source\repos\то\то\bin\Debug\net8.0\то.runtimeconfig.json
+C:\Users\ilruz\source\repos\то\то\bin\Debug\net8.0\то.dll
+C:\Users\ilruz\source\repos\то\то\bin\Debug\net8.0\то.pdb
+C:\Users\ilruz\source\repos\то\то\obj\Debug\net8.0\то.dll
+C:\Users\ilruz\source\repos\то\то\obj\Debug\net8.0\refint\то.dll
+C:\Users\ilruz\source\repos\то\то\obj\Debug\net8.0\то.pdb
+C:\Users\ilruz\source\repos\то\то\obj\Debug\net8.0\то.genruntimeconfig.cache
+C:\Users\ilruz\source\repos\то\то\obj\Debug\net8.0\ref\то.dll
